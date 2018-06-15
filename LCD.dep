@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2242335421</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_int.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\bsp_int.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_periph.o</file>
+      <file>$PROJ_DIR$\Flash\List\c.map</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_map.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\os_cfg_app.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$PROJ_DIR$\Flash\Obj\os_cfg_app.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_rcc.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\bsp_int.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\uCOS-III\Source\os_dbg.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_flash.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_int.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_flash.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_spi.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\BSP_spi_int.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\errno.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_dac.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\bsp.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\Flash\Obj\bsp_periph.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_rtc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_dbg.pbi</file>
+      <file>$PROJ_DIR$\Flash\Exe\c.out</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_dbgmcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\BSP_spi_int.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_usart.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_crc.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_bkp.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_c.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\BSP_spi_int.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_nvic.pbi</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_sdio.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\uCOS-III\bsp_os.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\LCD.pbd</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_can.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_rcc.pbi</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_lib.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_exti.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocaleuse.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_rcc.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_rcc.o</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_spi.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\BSP_spi_int.o</file>
+      <file>$PROJ_DIR$\Flash\Obj\bsp_periph.o</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_nvic.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_stlm75.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cfg_app.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_systick.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_fsmc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_i2c.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_gpio.o</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_nvic.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_spi.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_gpio.pbi</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_wwdg.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\os_dbg.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_pwr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_gpio.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_iwdg.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_flash.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.pbi</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_type.h</file>
+      <file>$PROJ_DIR$\Flash\Obj\app_vect.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Flash\Obj\bsp.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_flash.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_spi.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\stm32f10x_gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_nvic.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\cortexm3_macro.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_rcc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\uCOS-III\Source\os_cfg_app.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_adc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cfg_app.pbi</file>
+      <file>$PROJ_DIR$\Flash\Obj\os_dbg.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_spi.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_ser.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_dma.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_tim.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_flash.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_dbg.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_i2c.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\STM32_FLASH.icf</file>
+      <file>$PROJ_DIR$\Flash\Obj\app_vect.o</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\os_type.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-CPU\ARM-Cortex-M3\IAR\cpu.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-CPU\cpu_core.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-CPU\cpu_def.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\uC-CPU-CM3-IAR.a</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-LIB\lib_ascii.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-LIB\lib_def.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-LIB\lib_math.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-LIB\lib_mem.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uC-LIB\lib_str.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\uC-LIB-CM3-IAR.a</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Ports\ARM-Cortex-M3\Generic\IAR\os_cpu.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\uCOS-III-CM3-IAR.a</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_type.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_cfg_app.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_dbg.c</file>
+      <file>$PROJ_DIR$\includes.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp.c</file>
+      <file>$PROJ_DIR$\bsp_spi_int.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_gpio.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_int.c</file>
+      <file>$PROJ_DIR$\os_cfg_app.h</file>
+      <file>$PROJ_DIR$\app_cfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_periph.pbi</file>
+      <file>$PROJ_DIR$\const_data.h</file>
+      <file>$PROJ_DIR$\app_vect.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_periph.c</file>
+      <file>$PROJ_DIR$\BSP_spi_int.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_nvic.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\cortexm3_macro.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_dbgmcu.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_flash.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_spi.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_systick.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_type.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_gpio.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_nvic.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_rcc.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_spi.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\STM32_FLASH.icf</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\cpu_cfg.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\os_cfg.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\lib_cfg.h</file>
+      <file>$PROJ_DIR$\global_decls.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_lib.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_map.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_nvic.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_rcc.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\INC\stm32f10x_rtc.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_flash.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 31 5</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 110 42 99 16 4 35 67 108 15 81 94 59 19 116 122 124 89 65 0 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Micrium\Software\uCOS-III\Source\os_dbg.c</name>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 49 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Flash\Exe\c.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 110 111 23 3 62 51 8 78 83 72 63 57 74 116 122 124 89 65 0 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\LCD.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 20 84 2 137 9 101 30 18 76 43 52 92</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Flash\Obj\LCD.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 86 90 13 25 56 11 102 91 93 73 12 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Micrium\Software\uCOS-III\Source\os_cfg_app.c</name>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 135 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 49 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_cfg_app.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 135 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 49 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_dbg.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 49 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 163 156 113 115 155 114 118 120 136 157 121 117 64 87 33 1 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 112 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 138 158 136 157 128 113 115 155 118 117 119 114 120 121 64 87 33 1 49 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 135 130 50 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66 166</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138 158 136 157 128 113 115 155 118 117 119 114 120 121 64 87 33 1 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 135 130 50 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66 166</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 130 50 87 33 1 49 80 58 98 88 39 29 113 115 155 114 118 120 136 157 121 117 64 70 17 28 7 55 41 75 21 26 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 130 50 87 33 1 80 58 98 88 39 29 113 115 155 114 118 120 136 157 121 117 64 70 17 28 7 55 41 75 21 26 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 130 50 87 33 1 49 80 58 98 88 39 29 113 115 155 114 118 120 136 157 121 117 64 70 17 28 7 55 41 75 21 26 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 130 50 87 33 1 80 58 98 88 39 29 113 115 155 114 118 120 136 157 121 117 64 70 17 28 7 55 41 75 21 26 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\app_vect.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 128 113 115 155 118 117 119 114 120 136 157 121 64 87 33 1 49 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 135 130 50 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 128 113 115 155 118 117 119 114 120 136 157 121 64 87 33 1 80 58 98 39 70 17 28 7 55 41 75 21 26 88 29 135 130 50 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_periph.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 130 50 87 33 1 49 80 58 98 88 39 29 113 115 155 114 118 120 136 157 121 117 64 70 17 28 7 55 41 75 21 26 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 130 50 87 33 1 80 58 98 88 39 29 113 115 155 114 118 120 136 157 121 117 64 70 17 28 7 55 41 75 21 26 53 6 47 85 95 100 38 48 37 22 32 105 54 107 69 133 109 82 142 79 162 27 44 147 68 106 36 77 45 163 156 112 123 104 71 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP_spi_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 147 6 47 85 95 162 132 142</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 147 6 47 85 95 162 132 142</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133 6 47 85 95 162</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 133 6 47 85 95 162</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_nvic.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 142 6 47 85 95</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142 6 47 85 95</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 162 6 47 85 95</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 162 6 47 85 95</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_spi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 103 160 144 149 143 96</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103 160 144 149 143 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 6 47 85 95</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107 6 47 85 95</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\Release\Exe\c.out</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_flash.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Release\Obj\os_dbg.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp_int.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_rcc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\BSP_spi_int.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_dbg.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_gpio.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_spi.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_gpio.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_nvic.o</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp_periph.o</file>
+      <file>$PROJ_DIR$\Release\Obj\LCD.pbd</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_rcc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\BSP_spi_int.o</file>
+      <file>$PROJ_DIR$\Release\Obj\os_cfg_app.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_spi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp_int.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_flash.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Release\Obj\bsp_periph.pbi</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_cfg_app.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_dbg.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp.c</file>
+      <file>$PROJ_DIR$\bsp_spi_int.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_int.c</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f10x_nvic.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\os_cfg_app.pbi</file>
+      <file>$PROJ_DIR$\const_data.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_periph.c</file>
+      <file>$PROJ_DIR$\BSP_spi_int.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_gpio.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_nvic.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_rcc.c</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_spi.c</file>
+      <file>$PROJ_DIR$\global_decls.h</file>
+      <file>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_flash.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Obj\LCD.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 9 29 24 31 6 39 10 1 14 38 8 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_cfg_app.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\uCOS-III\Source\os_dbg.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40 47 36 22 28 5 2 26 21 30 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_periph.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\BSP_spi_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_nvic.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_spi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

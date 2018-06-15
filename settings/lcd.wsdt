@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>LCD/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>221</Column0><Column1>0</Column1><Column2>9</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>636</ColumnWidth1><ColumnWidth2>704</ColumnWidth2><ColumnWidth3>42</ColumnWidth3></Build><TerminalIO/><Disassembly><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly><Debug-Log><ColumnWidth0>34</ColumnWidth0><ColumnWidth1>883</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19037-1951</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>LCD</ExpandedNode><ExpandedNode>LCD/APP</ExpandedNode><ExpandedNode>LCD/APP/CFG</ExpandedNode><ExpandedNode>LCD/BSP</ExpandedNode><ExpandedNode>LCD/BSP/Headers</ExpandedNode><ExpandedNode>LCD/BSP/STM32 Library</ExpandedNode><ExpandedNode>LCD/BSP/STM32 Library/inc</ExpandedNode><ExpandedNode>LCD/BSP/STM32 Library/src</ExpandedNode><ExpandedNode>LCD/BSP/Source</ExpandedNode><ExpandedNode>LCD/CFG - LIBRARIES</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-31748-18913</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-16615-13646</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\bsp_spi_int.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>56</SelStart><SelEnd>56</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\os_cfg_app.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1938</SelStart><SelEnd>1938</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\includes.h</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>1578</SelStart><SelEnd>1578</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp.c</Filename><XPos>0</XPos><YPos>700</YPos><SelStart>26606</SelStart><SelEnd>26606</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\bsp_int.c</Filename><XPos>0</XPos><YPos>270</YPos><SelStart>13071</SelStart><SelEnd>13071</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP_spi_int.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1881</SelStart><SelEnd>1929</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\os_cfg.h</Filename><XPos>0</XPos><YPos>93</YPos><SelStart>7153</SelStart><SelEnd>7153</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\os_type.h</Filename><XPos>0</XPos><YPos>76</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\cpu_cfg.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_spi.c</Filename><XPos>0</XPos><YPos>529</YPos><SelStart>20525</SelStart><SelEnd>20525</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\BSP\ST\STM32\SRC\stm32f10x_rcc.c</Filename><XPos>0</XPos><YPos>1080</YPos><SelStart>42768</SelStart><SelEnd>42768</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\const_data.h</Filename><XPos>0</XPos><YPos>46</YPos><SelStart>1960</SelStart><SelEnd>1960</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\micrium\Micrium\Software\EvalBoards\Micrium\uC-Eval-STM32F107\IAR\uCOS-III-Lib\lib_cfg.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1331</SelStart><SelEnd>1331</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\global_decls.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>1993</SelStart><SelEnd>1993</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app_cfg.h</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>3907</SelStart><SelEnd>3932</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>14</YPos><SelStart>332</SelStart><SelEnd>332</SelEnd></Tab><ActiveTab>15</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app_vect.c</Filename><XPos>85</XPos><YPos>79</YPos><SelStart>3206</SelStart><SelEnd>3206</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012aa008><key>iaridepm.enu1</key></Toolbar-012aa008></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>284</Bottom><Right>267</Right><x>-2</x><y>-2</y><xscreen>216</xscreen><yscreen>237</yscreen><sizeHorzCX>219959</sizeHorzCX><sizeHorzCY>553738</sizeHorzCY><sizeVertCX>273931</sizeVertCX><sizeVertCY>668224</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>100</Bottom><Right>984</Right><x>-2</x><y>-2</y><xscreen>986</xscreen><yscreen>102</yscreen><sizeHorzCX>1004073</sizeHorzCX><sizeHorzCY>238318</sizeHorzCY><sizeVertCX>219959</sizeVertCX><sizeVertCY>553738</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
